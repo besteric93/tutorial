@@ -293,3 +293,5 @@ Non farti spaventare, sperimenta con i CSS e prova a cambiare alcune cose. Se ro
 Compito per casa post-workshop: ti consigliamo caldamente di seguire [il corso su HTML & CSS di Codeacademy][2]. Così potrai imparare tutto ciò di cui hai bisogno per rendere i tuoi siti web più belli sfruttando il CSS.
 
 Pronta per il prossimo capitolo?! :)
+
+Siglato eric
